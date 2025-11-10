@@ -1,0 +1,11 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "plugins": ["@typescript-eslint", "react"],
+  "rules": {
+    "@typescript-eslint/consistent-type-imports": "error",
+    "react/jsx-sort-props": [
+      "warn",
+      { "callbacksLast": true, "shorthandFirst": true, "multiline": "last" }
+    ]
+  }
+}
