@@ -1,0 +1,41 @@
+{
+  "app": {
+    "title": "不动产电话应对培训系统",
+    "description": "结合场景模拟、AI评估与进度管理的综合培训平台"
+  },
+  "navigation": {
+    "dashboard": "首页概览",
+    "learning": "学习模块",
+    "scenarios": "场景模拟",
+    "exercises": "练习题库",
+    "progress": "学习记录",
+    "reports": "评估报告",
+    "resources": "资源库",
+    "admin": "后台管理"
+  },
+  "dashboard": {
+    "welcome": "欢迎，{{name}}",
+    "startSimulation": "开始场景模拟",
+    "continueLearning": "继续学习",
+    "viewReport": "查看最新评估"
+  },
+  "scenario": {
+    "difficulty": {
+      "beginner": "入门",
+      "intermediate": "进阶",
+      "advanced": "高级"
+    },
+    "checklist": "核对清单",
+    "feedback": "实时反馈",
+    "respond": "作答",
+    "speak": "语音输入",
+    "type": "文本输入",
+    "selectOption": "请选择最合适的选项"
+  },
+  "reports": {
+    "overallScore": "总评分",
+    "strengths": "优势亮点",
+    "improvements": "改进建议",
+    "aiFeedback": "AI评语"
+  }
+}

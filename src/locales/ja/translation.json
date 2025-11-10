@@ -1,0 +1,41 @@
+{
+  "app": {
+    "title": "不動産電話応対トレーニング",
+    "description": "シナリオ学習、AI評価、進捗管理を備えた総合トレーニングプラットフォーム"
+  },
+  "navigation": {
+    "dashboard": "ダッシュボード",
+    "learning": "学習モジュール",
+    "scenarios": "シナリオ",
+    "exercises": "練習問題",
+    "progress": "学習記録",
+    "reports": "評価レポート",
+    "resources": "リソース",
+    "admin": "管理"
+  },
+  "dashboard": {
+    "welcome": "ようこそ、{{name}}さん",
+    "startSimulation": "シナリオを開始",
+    "continueLearning": "学習を続ける",
+    "viewReport": "最新の評価を見る"
+  },
+  "scenario": {
+    "difficulty": {
+      "beginner": "初級",
+      "intermediate": "中級",
+      "advanced": "上級"
+    },
+    "checklist": "チェックリスト",
+    "feedback": "リアルタイムフィードバック",
+    "respond": "応答",
+    "speak": "音声入力",
+    "type": "テキスト入力",
+    "selectOption": "最適な選択肢を選んでください"
+  },
+  "reports": {
+    "overallScore": "総合スコア",
+    "strengths": "強み",
+    "improvements": "改善ポイント",
+    "aiFeedback": "AIフィードバック"
+  }
+}
